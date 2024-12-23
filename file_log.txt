@@ -1,0 +1,16 @@
+./notebook_profiling_clean.ipynb
+./.git/description
+./.git/packed-refs
+./.git/HEAD
+./.git/config
+./.git/COMMIT_EDITMSG
+./.git/index
+./.git/FETCH_HEAD
+./.git/ORIG_HEAD
+./README.md
+./.gitignore
+./gitCLI.ipynb
+./notebook_dev.ipynb
+./notebook_analysis.ipynb
+./file_log.txt
+./processed/crop_yield_dataset.csv
